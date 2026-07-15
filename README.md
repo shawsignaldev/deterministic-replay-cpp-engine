@@ -24,3 +24,11 @@ python -m pytest -q
 The goal is to show engineering judgment across quant research, cyber-physical systems,
 low-latency infrastructure, and hardware/software co-design. This is a public prototype,
 not a live trading system.
+
+## Engineering depth
+
+This repo includes additional depth notes for systems reviewers:
+
+- [Architecture](docs/architecture.md)
+- [C++ interface sketch](docs/cpp-interface.md)
+- [Benchmark plan](docs/benchmark-plan.md)
